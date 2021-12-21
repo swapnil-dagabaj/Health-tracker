@@ -1,5 +1,12 @@
 # health-tracker
 
+To Run project on machine follow these steps- 
+
+Ensure you have Node install on your machine
+npm install yarn -g
+yarn install
+yarn serve
+
 ## Project setup
 ```
 yarn install
